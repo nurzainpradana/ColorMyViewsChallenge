@@ -1,4 +1,4 @@
-## KELAS MOBILE PROGRAMMING BLK BEKASI 2020
+## KELAS MOBILE PROGRAMMING BBPLK BEKASI 2020
 **Challenge Aplikasi Color My View menggunakan Kotlin created by [Pak Zulka (Instructor BBPLK Bekasi)](https://github.com/zalia2017)**
 Aplikasi ColorMyViews terinspirasi oleh seniman Belkita, Piet Mondrian. Ia menemukan style lukisan yang disebut neoplastisisme , yang hanya menggunakan garis vertikal dan horizontal serta bentuk persegi panjang dengan warna hitam, putih, abu-abu, dan primer.
 Meskipun lukisan bersifat statis, aplikasi kita akan menjadi interaktif! Aplikasi ini terdiri dari text view yang dapat diklik yang berubah warna saat di-tap, dan button view dalam sebuah constraintLayout.
